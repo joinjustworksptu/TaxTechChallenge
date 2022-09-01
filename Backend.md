@@ -20,19 +20,19 @@ The only requirements for this assignment are:
 
 
 1. Create an API endpoint for creating reservations that allows the API consumer to specify the following attributes:
-    a. party size
-    b. reservation date
-    c. reservation slot
-    d. party name
-    e. contact phone
-    f. contact email address.
+    1. party size
+    1. reservation date
+    1. reservation slot
+    1. party name
+    1. contact phone
+    1. contact email address.
 2. Create an API endpoint for listing all reservations at the restaurant. The API consumer should be able to filter based on reservation attributes:
-    a. party size
-    b. reservation date
-    c. reservation slot
-    d. party name
-    e. contact phone
-    f. contact email address
+    1. party size
+    1. reservation date
+    1. reservation slot
+    1. party name
+    1. contact phone
+    1. contact email address
 3. Documentation is provided for how to build and run your code, which should include sample API payloads.
 
 Feel free to solve this challenge in a way that best demonstrates your expertise and creativity. The ideal way to submit this project is as a public GitHub repository as this makes managing access easier. Please share the link with us by email 48 hours before your on-site. If you are unable or uncomfortable with using a public git repository, you can share a private GitHub repository with the user handle @joinjustworksptu. You can also share a zip of your git repository to us via email.

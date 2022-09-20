@@ -26,7 +26,7 @@ The only requirements for this assignment are:
     1. party name
     1. contact phone
     1. contact email address.
-2. Create a front end user experience, ideally using a Javascript framework like React, to create reservations using the API endpoint in requirement #1.
+2. Create a front end web interface, ideally using a Javascript framework like React, to create reservations using the API endpoint in requirement #1.
 3. Provide documentation that describes how to build and run your code, and include sample API payloads.
 
 Feel free to solve this challenge in a way that best demonstrates your expertise and creativity. The ideal way to submit this project is as a public GitHub repository as this makes managing access easier. Please share the link with us by email 36 hours before your Round 2 so that we have enough time to review your submission. If you are unable or uncomfortable with using a public git repository, you can share a private GitHub repository with the user handle @joinjustworksptu. You can also share a zip of your git repository to us via email.
